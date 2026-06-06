@@ -24,11 +24,11 @@ I'm MD Abdul Wahid Ekram
 
 ## 📊 GitHub Stats & Trophies
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/abdulwahid84">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulwahid84&cache_seconds=7200&theme=vue&border_radius=10" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=abdulwahid84&theme=vue&hide_border=true&cache_seconds=86400" />
