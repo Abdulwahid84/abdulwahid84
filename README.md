@@ -8,7 +8,7 @@ I'm MD Abdul Wahid Ekram
 
 ## 📌 About Me
 - I'm currently learning advanced deep learning, MLOps, and cloud deployment
-- 👯 I'm looking to collaborate on AI/ML and open-source projects
+- I'm looking to collaborate on AI/ML and open-source projects
 - 🤝 I'm looking for help with scaling ML models and production deployment
 - 💡 I'm passionate about building AI solutions for real-world problems
 - 🚀 I love combining machine learning with full-stack development
