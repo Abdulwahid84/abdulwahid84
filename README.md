@@ -12,7 +12,7 @@ I'm MD Abdul Wahid Ekram
 - I'm looking for help with scaling ML models and production deployment
 - I'm passionate about building AI solutions for real-world problems
 - I love combining machine learning with full-stack development
-- I have been Teaching Maths 
+- I have been Teaching Maths for more than 4+ year's
 ## 🧠 My Focus Areas
 - AI/ML Development
 - Data Science & Analytics
